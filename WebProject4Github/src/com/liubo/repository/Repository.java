@@ -4,5 +4,5 @@ public class Repository {
 
 	private String email;
 	
-	private String feature3;
+	private String feature33;
 }
