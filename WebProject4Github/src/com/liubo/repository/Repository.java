@@ -11,4 +11,7 @@ public class Repository {
 	private String feature4;
 	
 	private String liubo_author;
+	
+
+	private String liubo_author_author;
 }
