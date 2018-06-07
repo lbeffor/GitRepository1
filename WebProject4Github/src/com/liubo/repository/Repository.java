@@ -9,4 +9,6 @@ public class Repository {
 	private String feature44;
 	
 	private String feature4;
+	
+	private String liubo_author;
 }
