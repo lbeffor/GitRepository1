@@ -18,4 +18,6 @@ public class Repository {
 	//featur/liubo
 	
 	//featur/liubo1
+	
+	//no num delete
 }
