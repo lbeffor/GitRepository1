@@ -35,5 +35,9 @@ public class Repository {
 	
 	//git_hub_22
 	
+<<<<<<< HEAD
 	//git_hub_hub
+=======
+	//git_hub
+>>>>>>> branch 'feature/liubo' of https://github.com/lbeffor/GitRepository1.git
 }
