@@ -50,4 +50,8 @@ public class Repository {
 	//git_hub_2
 	
 	//not push
+
+	//git_hub_2
+	
+	//commit_1
 }
