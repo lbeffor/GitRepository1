@@ -50,8 +50,4 @@ public class Repository {
 	//git_hub_2
 	
 	//commit_1
-	
-	//c1
-	
-	//c2
 }
